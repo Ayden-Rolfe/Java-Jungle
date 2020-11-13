@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{EF4A5F6B-40DF-CE51-D687-90BA063C08FF}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "JavaJungleProto",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "RamaTest",
+			"Enabled": false
+		}
+	]
+}
